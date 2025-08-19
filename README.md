@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-My name is Mihir, a student based in Madison, Wisconsin
+My name is Mihir, a student at University of Wisconsin-Madison
 
 Contact:
 mihirs1410@gmail.com
