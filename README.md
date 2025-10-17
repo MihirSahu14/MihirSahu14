@@ -2,6 +2,6 @@
 
 My name is Mihir, a student at University of Wisconsin-Madison
 
-Contact:  
+Contact:     
 mihirs1410@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/msahu14/)
