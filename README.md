@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-My name is Mihir, a student at University of Wisconsin-Madison
+My name is Mihir, an AI-forward software engineer. I build software, systems, and game worlds.
 
 Website: https://mihirsahu.vercel.app/  
 
