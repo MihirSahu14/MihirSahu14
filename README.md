@@ -2,7 +2,7 @@
 
 My name is Mihir, an AI-forward software engineer. I build software, systems, and game worlds.
 
-Website: https://mihirsahu.vercel.app/  
+Website: [https://mihirsahu.vercel.app/  ](https://www.mihirsahu.dev/)
 
 Contact:     
 mihirs1410@gmail.com  
